@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-👉 [https://eduflow.vercel.app](https://lms-xrs4.onrender.com)  
+👉 [https://lms-xrs4.onrender.com](https://lms-xrs4.onrender.com)  
 
 
 ---
